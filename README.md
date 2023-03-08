@@ -1,5 +1,3 @@
-<p># fmsc</p>
-<p><br></p>
 <p>FMSC offers a lot of features</p>
 <h2>Some of them are below</h2>
 <p>The latest outstanding features of FM snapchat are as follows:</p>
